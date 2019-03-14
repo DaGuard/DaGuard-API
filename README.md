@@ -11,12 +11,8 @@ Following API files provide the details of the APIs that are available through d
 
 File Name                                    | Description
 -------------------------------------------- | ---------------------------------------
-[getting-started.md](getting-started.md)     | Getting started document before going through api documents
-[wallets.md](wallets.md)                     | Details on wallets operation APIs
-[pending-approvals.md](pending-approvals.md) | Details on pending approval APIs
-[webhook-notifications.md](webhook-notifications.md)             | Details on notification webhook APIs
-[enums.md](enums.md)                         | Details on Enum fields in the system
-[error-codes.md](error-codes.md)             | Details on API error codes
+[GETTING STARTED.md](GETTING%20STARTED.md)   | Getting started document before going through api documents
+[API REFERENCE.md](API%20REFERENCE.md)       | API reference
 
 
 

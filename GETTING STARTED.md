@@ -1,7 +1,6 @@
-# Getting Started
+# Prerequisites
 All API requests shall go through the DaGuard Station that runs as a service at your own data center. After the organization and user permissions are set up at DaGuard site, wallets can ONLY be created through DaGuard Station to ensure you have ultimate control of two private keys and keep them within your network. The DaGuard Station also handles all the client-side operations before submitting them to DaGuard through secured API.
 
-## Prerequisites
 Before using DaGuard Station, please make sure you have done the following things:
 
 1. **Create an API key**
@@ -9,7 +8,7 @@ Before using DaGuard Station, please make sure you have done the following thing
 3. **Install and Start DaGuard Station**
 
 
-### 1: Create an API key
+## Create an API key
 
 ***API Key***
 
@@ -52,22 +51,23 @@ You can restrict the following access levels of API keys under coin level
 
 
 
-### 2: Install Java Runtime Environment
-DaGuard Station is a Java Application, so you need to install the Java Runtime Environment(JRE) on your system and Java MUST be version 8 Update151 or higher. Lower JRE version would cause an error response: Could not encrypt bytes.
+## Install Java Runtime Environment
+<aside class="notice">
+DaGuard Station is a Java Application, so you need to install the Java Runtime Environment(JRE) on your system.
+If your already had JRE installed, you should check that you have JRE version 8 Update151 or greater installed. If not, we recommend that you install a more recent version of JRE.
+</aside>
+
+You can check the version of JRE you have installed with the follwing command from a terminal prompt:
+
+<code>java -version</code>
 
 ***Download and Install Java Runtime Environment***
 
 Click <a href="https://www.java.com/en/download/" target="_blank">download</a> to download JRE .
 
-***Verify successful installation***
-To check out your java version, you can type the following command:
-<code>java -version</code>
 
 
-
-
-
-### 3: Install and Start DaGuard Station
+## Install and Start DaGuard Station
 + Click <a href="/api/DaGuard-Station.zip" download="DaGuard-Station.zip">Download</a> to get DaGuard Station
 + Unzip DaGuard-Station.zip and enter "DaGuard-Station/bin" directory
 + Start on Linux
@@ -79,12 +79,11 @@ To check out your java version, you can type the following command:
 <code>$ start-daguard.bat</code>
 
 
-## DaGuard Station UI
-After DaGuard Station is started, you can create wallet and send transfer request via DaGuard Station UI. The Station UI can be accessed through **http://localhost:8657** or **http://{box ip}:8657** if you access through the network.
+# DaGuard Station
+After DaGuard Station is started, you can start creating wallets via DaGuard Station UI. The Station UI can be accessed through **http://localhost:8657** or **http://{box ip}:8657** if you access through the network.
+
+Currently, all wallets can only be created through DaGuard Station located in your data center to ensure you have ultimate control of two private keys and keep them within your network.  Once created, these wallets can be accessed after logging into the DaGuard platform.  
 
 
-
-
-
-## DaGuard API Swagger UI(Optional)
-DaGuard Swagger UI is a helpful development tool that helps developers to visualize and interact with all Station REST APIs. The DaGuard Swagger UI can be accessed through **http://localhost:8657/swagger-ui.html** or **http://{box ip}:8657/swagger-ui.html** if you access through the network.
+# DaGuard API Swagger(Optional)
+DaGuard API Swagger is a helpful development tool that helps developers to visualize and interact with all Station REST APIs. The API DaGuard Swagger UI can be accessed through **http://localhost:8657/swagger-ui.html** or **http://{box ip}:8657/swagger-ui.html** if you access through the network.
