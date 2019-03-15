@@ -7,6 +7,13 @@ Since anyone on the Internet can send HTTP requests to the Webhook URL, the requ
 
 Developers should take care to ensure that their application succeeds even in the cases of transient network error, or if receive the same webhook twice due to an improper acknowledgement.
 
+[WebHook Types](#webhook-types)
+[Transfer Webhook](#transfer-webhook)
+[Pending Approval Webhook](#pending-approval-webhook)
+[Create WebHook](#create-webhook)
+[Get Wallet All WebHooks](#get-wallet-all-webhooks)
+[Delete Wallet WebHook](#Delete Wallet WebHook)
+
 
 ## WebHook Types
 Type                  | Description

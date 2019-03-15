@@ -1,6 +1,14 @@
 # Wallets
 
-
+* [Get Coins](#get-coins)
+* [Get Coin](#get-coin)
+* [Create Wallet](#create-wallet)
+* [Get Wallet](#get-wallet)
+* [Get All Wallets](#get-all-wallets)
+* [Create Wallet Address](#create-wallet-address)
+* [Get Wallet Address](#get-wallet-address)
+* [Get Wallet All Addresses](#get-wallet-all-addresses)
+* [Get KeyChain](#get-keychain)
 
 ## Get Coins
 ```json
