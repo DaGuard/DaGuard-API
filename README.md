@@ -13,6 +13,8 @@ File Name                                    | Description
 -------------------------------------------- | ---------------------------------------
 [GETTING STARTED.md](GETTING%20STARTED.md)   | Getting started document before going through api documents
 [API REFERENCE.md](API%20REFERENCE.md)       | API reference
-
-
-
+[WALLETS.md](WALLETS.md)                     | API reference
+[TRANSFERS.md](TRANSFERS.md)                 | API reference
+[WEBHOOK.md](WEBHOOK.md)                     | API reference
+[ENUMS.md](ENUMS.md)                         | API reference
+[ERROR CODES.md](ERROR%20CODES.md)           | API reference

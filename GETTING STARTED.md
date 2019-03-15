@@ -23,29 +23,29 @@ Before being able to send any requests, you must create API key via the DaGuard 
 You can restrict the following access levels of API keys under coin level
 
 + VIEW
-    * [Get Wallet](API%20REFERENCE.md#get-wallet)
-    * [Get All Wallets](API%20REFERENCE.md#get-all-wallets)
-    * [Get Wallet Address](API%20REFERENCE.md#get-wallet-address)
-    * [Get Transfer Request](API%20REFERENCE.md#get-transfer-request)
-    * [Get Pending Approval Transfer Requests](API%20REFERENCE.md#get-pending-approval-transfer-requests)
-    * [Get Transfer By transferId](API%20REFERENCE.md#get-transfer-by-transferid)
-    * [Get All Transfers](API%20REFERENCE.md#get-all-transfers)
+    * [Get Wallet](WALLETS.md#get-wallet)
+    * [Get All Wallets](WALLETS.md#get-all-wallets)
+    * [Get Wallet Address](WALLETS.md#get-wallet-address)
+    * [Get Transfer Request](TRANSFERS.md#get-transfer-request)
+    * [Get Pending Approval Transfer Requests](TRANSFERS.md#get-pending-approval-transfer-requests)
+    * [Get Transfer By transferId](TRANSFERS.md#get-transfer-by-transferid)
+    * [Get All Transfers](TRANSFERS.md#get-all-transfers)
 + SPEND
-    * [Create Wallet Address](API%20REFERENCE.md#create-wallet-address)
-    * [Create Transfer Request](API%20REFERENCE.md#create-transfer-request)
+    * [Create Wallet Address]((WALLETS.md#create-wallet-address)
+    * [Create Transfer Request](TRANSFERS.md#create-transfer-request)
 + ADMIN
-    * [Get Pending Approval Transfer Requests](API%20REFERENCE.md#get-pending-approval-transfer-requests)
-    * [Approve Pending Approval Transfer Request](API%20REFERENCE.md#approve-pending-approval)
-    * [Reject Pending Approval Transfer Request](API%20REFERENCE.md#reject-pending-approval-transfer-request)
+    * [Get Pending Approval Transfer Requests](TRANSFERS.md#get-pending-approval-transfer-requests)
+    * [Approve Pending Approval Transfer Request](TRANSFERS.md#approve-pending-approval)
+    * [Reject Pending Approval Transfer Request](TRANSFERS.md#reject-pending-approval-transfer-request)
 + CREATE_WALLET
-    * [Create Wallet](API%20REFERENCE.md#create-wallet)
+    * [Create Wallet]((WALLETS.md#create-wallet)
 + WEBHOOK_NOTIFICATION
-    * [Webhook Types](API%20REFERENCE.md#webhook-types)
-    * [Transfer Webhook](API%20REFERENCE.md#transfer-webhook)
-    * [Pending Approval Webhook](API%20REFERENCE.md#pending-approval-webhook)
-    * [Create Webhook](API%20REFERENCE.md#create-webhook)
-    * [Get Wallet All Webhooks](API%20REFERENCE.md#get-wallet-all-webhooks)
-    * [Delete Wallet Webhook](API%20REFERENCE.md#delete-wallet-webhook)
+    * [Webhook Types](WEBHOOK.md#webhook-types)
+    * [Transfer Webhook](WEBHOOK.md#transfer-webhook)
+    * [Pending Approval Webhook](WEBHOOK.md#pending-approval-webhook)
+    * [Create Webhook](WEBHOOK.md#create-webhook)
+    * [Get Wallet All Webhooks](WEBHOOK.md#get-wallet-all-webhooks)
+    * [Delete Wallet Webhook](WEBHOOK.md#delete-wallet-webhook)
 
 
 
