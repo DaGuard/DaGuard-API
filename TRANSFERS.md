@@ -1,13 +1,13 @@
 # Transfers
 
-[Create Transfer Request](#create-transfer-request)
-[Get Transfer Request](#get-transfer-request)
-[Get Pending Approval Transfer Requests](#get-pending-approval-transfer-requests)
-[Approve Pending Approval](#approve-pending-approval)
-[Reject Pending Approval Transfer Request](#reject-pending-approval-transfer-request)
-[Get Transfer By TransferId](#get-transfer-by-transferid)
-[Get Transfer By Txid](#get-transfer-by-txid)
-[Get All Transfers](#get-all-transfers)
+* [Create Transfer Request](#create-transfer-request)
+* [Get Transfer Request](#get-transfer-request)
+* [Get Pending Approval Transfer Requests](#get-pending-approval-transfer-requests)
+* [Approve Pending Approval](#approve-pending-approval)
+* [Reject Pending Approval Transfer Request](#reject-pending-approval-transfer-request)
+* [Get Transfer By TransferId](#get-transfer-by-transferid)
+* [Get Transfer By Txid](#get-transfer-by-txid)
+* [Get All Transfers](#get-all-transfers)
 
 ## Create Transfer Request
 ```json
