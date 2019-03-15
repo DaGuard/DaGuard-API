@@ -12,7 +12,7 @@ Developers should take care to ensure that their application succeeds even in th
 * [Pending Approval Webhook](#pending-approval-webhook)
 * [Create WebHook](#create-webhook)
 * [Get Wallet All WebHooks](#get-wallet-all-webhooks)
-* [Delete Wallet WebHook](#Delete Wallet WebHook)
+* [Delete Wallet WebHook](#delete-wallet-webhook)
 
 
 ## WebHook Types
