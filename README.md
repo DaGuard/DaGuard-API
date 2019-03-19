@@ -5,6 +5,10 @@ Daguard provides business wallet service for institutions.
 The Secure Web APIs are designed to allow client applications to access Daguard using the HTTPS(rest) protocol over the internet.
 The purpose of this document is to provide the urls and the specification of the messages communicated through Web APIs.
 
+API document can also be found at https://www.daguard.com/api/
+
+
+
 ---
 ## API Files
 Following API files provide the details of the APIs that are available through different access channels.
@@ -12,7 +16,7 @@ Following API files provide the details of the APIs that are available through d
 File Name                                    | Description
 -------------------------------------------- | ---------------------------------------
 [GETTING STARTED.md](GETTING%20STARTED.md)   | Getting started document before going through api documents
-[API REFERENCE.md](API%20REFERENCE.md)       | API reference
+[APIGeneralInfo.md](APIGeneralInfo.md)       | API reference
 [WALLETS.md](WALLETS.md)                     | Wallets
 [TRANSFERS.md](TRANSFERS.md)                 | Transfers
 [WEBHOOK.md](WEBHOOK.md)                     | Web hook
