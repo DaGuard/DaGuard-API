@@ -23,29 +23,29 @@ Before being able to send any requests, you must create API key via the DaGuard 
 You can restrict the following access levels of API keys under coin level
 
 + VIEW
-    * [Get Wallet](WALLETS.md#get-wallet)
-    * [Get All Wallets](WALLETS.md#get-all-wallets)
-    * [Get Wallet Address](WALLETS.md#get-wallet-address)
-    * [Get Transfer Request](TRANSFERS.md#get-transfer-request)
-    * [Get Pending Approval Transfer Requests](TRANSFERS.md#get-pending-approval-transfer-requests)
-    * [Get Transfer By transferId](TRANSFERS.md#get-transfer-by-transferid)
-    * [Get All Transfers](TRANSFERS.md#get-all-transfers)
+    * [Get Wallet](Wallets.md#get-wallet)
+    * [Get All Wallets](Wallets.md#get-all-wallets)
+    * [Get Wallet Address](Wallets.md#get-wallet-address)
+    * [Get Transfer Request](Transfers.md#get-transfer-request)
+    * [Get Pending Approval Transfer Requests](Transfers.md#get-pending-approval-transfer-requests)
+    * [Get Transfer By transferId](Transfers.md#get-transfer-by-transferid)
+    * [Get All Transfers](Transfers.md#get-all-transfers)
 + SPEND
-    * [Create Wallet Address]((WALLETS.md#create-wallet-address)
-    * [Create Transfer Request](TRANSFERS.md#create-transfer-request)
+    * [Create Wallet Address](Wallets.md#create-wallet-address)
+    * [Create Transfer Request](Transfers.md#create-transfer-request)
 + ADMIN
-    * [Get Pending Approval Transfer Requests](TRANSFERS.md#get-pending-approval-transfer-requests)
-    * [Approve Pending Approval Transfer Request](TRANSFERS.md#approve-pending-approval)
-    * [Reject Pending Approval Transfer Request](TRANSFERS.md#reject-pending-approval-transfer-request)
+    * [Get Pending Approval Transfer Requests](Transfers.md#get-pending-approval-transfer-requests)
+    * [Approve Pending Approval Transfer Request](Transfers.md#approve-pending-approval)
+    * [Reject Pending Approval Transfer Request](Transfers.md#reject-pending-approval-transfer-request)
 + CREATE_WALLET
-    * [Create Wallet]((WALLETS.md#create-wallet)
+    * [Create Wallet](Wallets.md#create-wallet)
 + WEBHOOK_NOTIFICATION
-    * [Webhook Types](WEBHOOK.md#webhook-types)
-    * [Transfer Webhook](WEBHOOK.md#transfer-webhook)
-    * [Pending Approval Webhook](WEBHOOK.md#pending-approval-webhook)
-    * [Create Webhook](WEBHOOK.md#create-webhook)
-    * [Get Wallet All Webhooks](WEBHOOK.md#get-wallet-all-webhooks)
-    * [Delete Wallet Webhook](WEBHOOK.md#delete-wallet-webhook)
+    * [Webhook Types](WebHook.md#webhook-types)
+    * [Transfer Webhook](WebHook.md#transfer-webhook)
+    * [Pending Approval Webhook](WebHook.md#pending-approval-webhook)
+    * [Create Webhook](WebHook.md#create-webhook)
+    * [Get Wallet All Webhooks](WebHook.md#get-wallet-all-webhooks)
+    * [Delete Wallet Webhook](WebHook.md#delete-wallet-webhook)
 
 
 

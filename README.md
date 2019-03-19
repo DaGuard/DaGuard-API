@@ -15,10 +15,10 @@ Following API files provide the details of the APIs that are available through d
 
 File Name                                    | Description
 -------------------------------------------- | ---------------------------------------
-[GETTING STARTED.md](GETTING%20STARTED.md)   | Getting started document before going through api documents
+[GettingStarted.md](GettingStarted.md)       | Getting started document before going through api documents
 [APIGeneralInfo.md](APIGeneralInfo.md)       | API reference
-[WALLETS.md](WALLETS.md)                     | Wallets
-[TRANSFERS.md](TRANSFERS.md)                 | Transfers
-[WEBHOOK.md](WEBHOOK.md)                     | Web hook
-[ENUMS.md](ENUMS.md)                         | Enums
-[ERROR CODES.md](ERROR%20CODES.md)           | Error codes
+[Wallets.md](Wallets.md)                     | Wallets
+[Transfers.md](Transfers.md)                 | Transfers
+[WebHook.md](WebHook.md)                     | Web hook
+[Enums.md](Enums.md)                         | Enums
+[ErrorCodes.md](ErrorCodes.md)               | Error codes
